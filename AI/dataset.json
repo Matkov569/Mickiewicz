@@ -1,0 +1,1182 @@
+[
+    {
+        "Length": 104,
+        "WordsCount": 18,
+        "WordsLenAvg": 5.777777777777778,
+        "PlChars": 6,
+        "PlAvg": 0.3333333333333333,
+        "SpecialChars": 23,
+        "SpecialAvg": 1.2777777777777777,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 71,
+        "WordsCount": 13,
+        "WordsLenAvg": 5.461538461538462,
+        "PlChars": 10,
+        "PlAvg": 0.7692307692307693,
+        "SpecialChars": 14,
+        "SpecialAvg": 1.0769230769230769,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 390,
+        "WordsCount": 60,
+        "WordsLenAvg": 6.5,
+        "PlChars": 28,
+        "PlAvg": 0.4666666666666667,
+        "SpecialChars": 71,
+        "SpecialAvg": 1.1833333333333333,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 404,
+        "WordsCount": 54,
+        "WordsLenAvg": 7.481481481481482,
+        "PlChars": 30,
+        "PlAvg": 0.5555555555555556,
+        "SpecialChars": 65,
+        "SpecialAvg": 1.2037037037037037,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 264,
+        "WordsCount": 41,
+        "WordsLenAvg": 6.439024390243903,
+        "PlChars": 13,
+        "PlAvg": 0.3170731707317073,
+        "SpecialChars": 51,
+        "SpecialAvg": 1.2439024390243902,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 140,
+        "WordsCount": 23,
+        "WordsLenAvg": 6.086956521739131,
+        "PlChars": 13,
+        "PlAvg": 0.5652173913043478,
+        "SpecialChars": 27,
+        "SpecialAvg": 1.173913043478261,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 299,
+        "WordsCount": 48,
+        "WordsLenAvg": 6.229166666666667,
+        "PlChars": 21,
+        "PlAvg": 0.4375,
+        "SpecialChars": 56,
+        "SpecialAvg": 1.1666666666666667,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 90,
+        "WordsCount": 13,
+        "WordsLenAvg": 6.923076923076923,
+        "PlChars": 7,
+        "PlAvg": 0.5384615384615384,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.1538461538461537,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 88,
+        "WordsCount": 12,
+        "WordsLenAvg": 7.333333333333333,
+        "PlChars": 9,
+        "PlAvg": 0.75,
+        "SpecialChars": 12,
+        "SpecialAvg": 1,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 82,
+        "WordsCount": 12,
+        "WordsLenAvg": 6.833333333333333,
+        "PlChars": 7,
+        "PlAvg": 0.5833333333333334,
+        "SpecialChars": 14,
+        "SpecialAvg": 1.1666666666666667,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 91,
+        "WordsCount": 13,
+        "WordsLenAvg": 7,
+        "PlChars": 3,
+        "PlAvg": 0.23076923076923078,
+        "SpecialChars": 14,
+        "SpecialAvg": 1.0769230769230769,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 90,
+        "WordsCount": 14,
+        "WordsLenAvg": 6.428571428571429,
+        "PlChars": 11,
+        "PlAvg": 0.7857142857142857,
+        "SpecialChars": 17,
+        "SpecialAvg": 1.2142857142857142,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 85,
+        "WordsCount": 13,
+        "WordsLenAvg": 6.538461538461538,
+        "PlChars": 6,
+        "PlAvg": 0.46153846153846156,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.1538461538461537,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 78,
+        "WordsCount": 12,
+        "WordsLenAvg": 6.5,
+        "PlChars": 2,
+        "PlAvg": 0.16666666666666666,
+        "SpecialChars": 13,
+        "SpecialAvg": 1.0833333333333333,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 137,
+        "WordsCount": 23,
+        "WordsLenAvg": 5.956521739130435,
+        "PlChars": 11,
+        "PlAvg": 0.4782608695652174,
+        "SpecialChars": 27,
+        "SpecialAvg": 1.173913043478261,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 254,
+        "WordsCount": 40,
+        "WordsLenAvg": 6.35,
+        "PlChars": 13,
+        "PlAvg": 0.325,
+        "SpecialChars": 47,
+        "SpecialAvg": 1.175,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 150,
+        "WordsCount": 26,
+        "WordsLenAvg": 5.769230769230769,
+        "PlChars": 11,
+        "PlAvg": 0.4230769230769231,
+        "SpecialChars": 29,
+        "SpecialAvg": 1.1153846153846154,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 171,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.576923076923077,
+        "PlChars": 12,
+        "PlAvg": 0.46153846153846156,
+        "SpecialChars": 33,
+        "SpecialAvg": 1.2692307692307692,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 166,
+        "WordsCount": 24,
+        "WordsLenAvg": 6.916666666666667,
+        "PlChars": 12,
+        "PlAvg": 0.5,
+        "SpecialChars": 27,
+        "SpecialAvg": 1.125,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 93,
+        "WordsCount": 14,
+        "WordsLenAvg": 6.642857142857143,
+        "PlChars": 7,
+        "PlAvg": 0.5,
+        "SpecialChars": 16,
+        "SpecialAvg": 1.1428571428571428,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 186,
+        "WordsCount": 29,
+        "WordsLenAvg": 6.413793103448276,
+        "PlChars": 13,
+        "PlAvg": 0.4482758620689655,
+        "SpecialChars": 35,
+        "SpecialAvg": 1.206896551724138,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 165,
+        "WordsCount": 25,
+        "WordsLenAvg": 6.6,
+        "PlChars": 10,
+        "PlAvg": 0.4,
+        "SpecialChars": 31,
+        "SpecialAvg": 1.24,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 162,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.230769230769231,
+        "PlChars": 12,
+        "PlAvg": 0.46153846153846156,
+        "SpecialChars": 32,
+        "SpecialAvg": 1.2307692307692308,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 176,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.769230769230769,
+        "PlChars": 16,
+        "PlAvg": 0.6153846153846154,
+        "SpecialChars": 32,
+        "SpecialAvg": 1.2307692307692308,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 528,
+        "WordsCount": 78,
+        "WordsLenAvg": 6.769230769230769,
+        "PlChars": 44,
+        "PlAvg": 0.5641025641025641,
+        "SpecialChars": 97,
+        "SpecialAvg": 1.2435897435897436,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 83,
+        "WordsCount": 11,
+        "WordsLenAvg": 7.545454545454546,
+        "PlChars": 8,
+        "PlAvg": 0.7272727272727273,
+        "SpecialChars": 13,
+        "SpecialAvg": 1.1818181818181819,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 159,
+        "WordsCount": 25,
+        "WordsLenAvg": 6.36,
+        "PlChars": 12,
+        "PlAvg": 0.48,
+        "SpecialChars": 29,
+        "SpecialAvg": 1.16,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 166,
+        "WordsCount": 25,
+        "WordsLenAvg": 6.64,
+        "PlChars": 16,
+        "PlAvg": 0.64,
+        "SpecialChars": 28,
+        "SpecialAvg": 1.12,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 177,
+        "WordsCount": 28,
+        "WordsLenAvg": 6.321428571428571,
+        "PlChars": 14,
+        "PlAvg": 0.5,
+        "SpecialChars": 32,
+        "SpecialAvg": 1.1428571428571428,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 177,
+        "WordsCount": 28,
+        "WordsLenAvg": 6.321428571428571,
+        "PlChars": 17,
+        "PlAvg": 0.6071428571428571,
+        "SpecialChars": 32,
+        "SpecialAvg": 1.1428571428571428,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 346,
+        "WordsCount": 56,
+        "WordsLenAvg": 6.178571428571429,
+        "PlChars": 31,
+        "PlAvg": 0.5535714285714286,
+        "SpecialChars": 72,
+        "SpecialAvg": 1.2857142857142858,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 134,
+        "WordsCount": 22,
+        "WordsLenAvg": 6.090909090909091,
+        "PlChars": 10,
+        "PlAvg": 0.45454545454545453,
+        "SpecialChars": 25,
+        "SpecialAvg": 1.1363636363636365,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 85,
+        "WordsCount": 13,
+        "WordsLenAvg": 6.538461538461538,
+        "PlChars": 11,
+        "PlAvg": 0.8461538461538461,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.1538461538461537,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 109,
+        "WordsCount": 16,
+        "WordsLenAvg": 6.8125,
+        "PlChars": 16,
+        "PlAvg": 1,
+        "SpecialChars": 19,
+        "SpecialAvg": 1.1875,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 129,
+        "WordsCount": 18,
+        "WordsLenAvg": 7.166666666666667,
+        "PlChars": 13,
+        "PlAvg": 0.7222222222222222,
+        "SpecialChars": 23,
+        "SpecialAvg": 1.2777777777777777,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 143,
+        "WordsCount": 24,
+        "WordsLenAvg": 5.958333333333333,
+        "PlChars": 12,
+        "PlAvg": 0.5,
+        "SpecialChars": 29,
+        "SpecialAvg": 1.2083333333333333,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 89,
+        "WordsCount": 14,
+        "WordsLenAvg": 6.357142857142857,
+        "PlChars": 7,
+        "PlAvg": 0.5,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.0714285714285714,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 172,
+        "WordsCount": 31,
+        "WordsLenAvg": 5.548387096774194,
+        "PlChars": 12,
+        "PlAvg": 0.3870967741935484,
+        "SpecialChars": 38,
+        "SpecialAvg": 1.2258064516129032,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 167,
+        "WordsCount": 27,
+        "WordsLenAvg": 6.185185185185185,
+        "PlChars": 13,
+        "PlAvg": 0.48148148148148145,
+        "SpecialChars": 32,
+        "SpecialAvg": 1.1851851851851851,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 123,
+        "WordsCount": 20,
+        "WordsLenAvg": 6.15,
+        "PlChars": 7,
+        "PlAvg": 0.35,
+        "SpecialChars": 24,
+        "SpecialAvg": 1.2,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 232,
+        "WordsCount": 37,
+        "WordsLenAvg": 6.27027027027027,
+        "PlChars": 21,
+        "PlAvg": 0.5675675675675675,
+        "SpecialChars": 42,
+        "SpecialAvg": 1.135135135135135,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 86,
+        "WordsCount": 14,
+        "WordsLenAvg": 6.142857142857143,
+        "PlChars": 10,
+        "PlAvg": 0.7142857142857143,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.0714285714285714,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 181,
+        "WordsCount": 28,
+        "WordsLenAvg": 6.464285714285714,
+        "PlChars": 16,
+        "PlAvg": 0.5714285714285714,
+        "SpecialChars": 34,
+        "SpecialAvg": 1.2142857142857142,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 84,
+        "WordsCount": 14,
+        "WordsLenAvg": 6,
+        "PlChars": 6,
+        "PlAvg": 0.42857142857142855,
+        "SpecialChars": 16,
+        "SpecialAvg": 1.1428571428571428,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 213,
+        "WordsCount": 33,
+        "WordsLenAvg": 6.454545454545454,
+        "PlChars": 19,
+        "PlAvg": 0.5757575757575758,
+        "SpecialChars": 41,
+        "SpecialAvg": 1.2424242424242424,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 177,
+        "WordsCount": 29,
+        "WordsLenAvg": 6.103448275862069,
+        "PlChars": 8,
+        "PlAvg": 0.27586206896551724,
+        "SpecialChars": 32,
+        "SpecialAvg": 1.103448275862069,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 86,
+        "WordsCount": 17,
+        "WordsLenAvg": 5.0588235294117645,
+        "PlChars": 6,
+        "PlAvg": 0.35294117647058826,
+        "SpecialChars": 18,
+        "SpecialAvg": 1.0588235294117647,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 123,
+        "WordsCount": 21,
+        "WordsLenAvg": 5.857142857142857,
+        "PlChars": 11,
+        "PlAvg": 0.5238095238095238,
+        "SpecialChars": 22,
+        "SpecialAvg": 1.0476190476190477,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 88,
+        "WordsCount": 11,
+        "WordsLenAvg": 8,
+        "PlChars": 3,
+        "PlAvg": 0.2727272727272727,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.3636363636363635,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 81,
+        "WordsCount": 16,
+        "WordsLenAvg": 5.0625,
+        "PlChars": 5,
+        "PlAvg": 0.3125,
+        "SpecialChars": 17,
+        "SpecialAvg": 1.0625,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 194,
+        "WordsCount": 26,
+        "WordsLenAvg": 7.461538461538462,
+        "PlChars": 9,
+        "PlAvg": 0.34615384615384615,
+        "SpecialChars": 31,
+        "SpecialAvg": 1.1923076923076923,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 243,
+        "WordsCount": 41,
+        "WordsLenAvg": 5.926829268292683,
+        "PlChars": 19,
+        "PlAvg": 0.4634146341463415,
+        "SpecialChars": 45,
+        "SpecialAvg": 1.0975609756097562,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 98,
+        "WordsCount": 15,
+        "WordsLenAvg": 6.533333333333333,
+        "PlChars": 8,
+        "PlAvg": 0.5333333333333333,
+        "SpecialChars": 18,
+        "SpecialAvg": 1.2,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 155,
+        "WordsCount": 26,
+        "WordsLenAvg": 5.961538461538462,
+        "PlChars": 12,
+        "PlAvg": 0.46153846153846156,
+        "SpecialChars": 30,
+        "SpecialAvg": 1.1538461538461537,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 131,
+        "WordsCount": 20,
+        "WordsLenAvg": 6.55,
+        "PlChars": 7,
+        "PlAvg": 0.35,
+        "SpecialChars": 27,
+        "SpecialAvg": 1.35,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 204,
+        "WordsCount": 33,
+        "WordsLenAvg": 6.181818181818182,
+        "PlChars": 22,
+        "PlAvg": 0.6666666666666666,
+        "SpecialChars": 38,
+        "SpecialAvg": 1.1515151515151516,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 65,
+        "WordsCount": 10,
+        "WordsLenAvg": 6.5,
+        "PlChars": 6,
+        "PlAvg": 0.6,
+        "SpecialChars": 12,
+        "SpecialAvg": 1.2,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 216,
+        "WordsCount": 34,
+        "WordsLenAvg": 6.352941176470588,
+        "PlChars": 19,
+        "PlAvg": 0.5588235294117647,
+        "SpecialChars": 41,
+        "SpecialAvg": 1.2058823529411764,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 227,
+        "WordsCount": 36,
+        "WordsLenAvg": 6.305555555555555,
+        "PlChars": 13,
+        "PlAvg": 0.3611111111111111,
+        "SpecialChars": 44,
+        "SpecialAvg": 1.2222222222222223,
+        "Autor": "Mickiewicz"
+    },
+    {
+        "Length": 178,
+        "WordsCount": 33,
+        "WordsLenAvg": 5.393939393939394,
+        "PlChars": 15,
+        "PlAvg": 0.45454545454545453,
+        "SpecialChars": 42,
+        "SpecialAvg": 1.2727272727272727,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 169,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.5,
+        "PlChars": 9,
+        "PlAvg": 0.34615384615384615,
+        "SpecialChars": 33,
+        "SpecialAvg": 1.2692307692307692,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 361,
+        "WordsCount": 56,
+        "WordsLenAvg": 6.446428571428571,
+        "PlChars": 24,
+        "PlAvg": 0.42857142857142855,
+        "SpecialChars": 69,
+        "SpecialAvg": 1.2321428571428572,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 682,
+        "WordsCount": 115,
+        "WordsLenAvg": 5.930434782608696,
+        "PlChars": 55,
+        "PlAvg": 0.4782608695652174,
+        "SpecialChars": 144,
+        "SpecialAvg": 1.2521739130434784,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 353,
+        "WordsCount": 58,
+        "WordsLenAvg": 6.086206896551724,
+        "PlChars": 24,
+        "PlAvg": 0.41379310344827586,
+        "SpecialChars": 73,
+        "SpecialAvg": 1.2586206896551724,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 153,
+        "WordsCount": 21,
+        "WordsLenAvg": 7.285714285714286,
+        "PlChars": 7,
+        "PlAvg": 0.3333333333333333,
+        "SpecialChars": 25,
+        "SpecialAvg": 1.1904761904761905,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 66,
+        "WordsCount": 10,
+        "WordsLenAvg": 6.6,
+        "PlChars": 10,
+        "PlAvg": 1,
+        "SpecialChars": 11,
+        "SpecialAvg": 1.1,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 115,
+        "WordsCount": 17,
+        "WordsLenAvg": 6.764705882352941,
+        "PlChars": 9,
+        "PlAvg": 0.5294117647058824,
+        "SpecialChars": 24,
+        "SpecialAvg": 1.411764705882353,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 683,
+        "WordsCount": 109,
+        "WordsLenAvg": 6.26605504587156,
+        "PlChars": 44,
+        "PlAvg": 0.4036697247706422,
+        "SpecialChars": 132,
+        "SpecialAvg": 1.2110091743119267,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 532,
+        "WordsCount": 85,
+        "WordsLenAvg": 6.258823529411765,
+        "PlChars": 33,
+        "PlAvg": 0.38823529411764707,
+        "SpecialChars": 113,
+        "SpecialAvg": 1.3294117647058823,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 160,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.153846153846154,
+        "PlChars": 14,
+        "PlAvg": 0.5384615384615384,
+        "SpecialChars": 30,
+        "SpecialAvg": 1.1538461538461537,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 327,
+        "WordsCount": 57,
+        "WordsLenAvg": 5.7368421052631575,
+        "PlChars": 35,
+        "PlAvg": 0.6140350877192983,
+        "SpecialChars": 65,
+        "SpecialAvg": 1.1403508771929824,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 74,
+        "WordsCount": 14,
+        "WordsLenAvg": 5.285714285714286,
+        "PlChars": 5,
+        "PlAvg": 0.35714285714285715,
+        "SpecialChars": 17,
+        "SpecialAvg": 1.2142857142857142,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 75,
+        "WordsCount": 12,
+        "WordsLenAvg": 6.25,
+        "PlChars": 3,
+        "PlAvg": 0.25,
+        "SpecialChars": 12,
+        "SpecialAvg": 1,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 192,
+        "WordsCount": 31,
+        "WordsLenAvg": 6.193548387096774,
+        "PlChars": 11,
+        "PlAvg": 0.3548387096774194,
+        "SpecialChars": 37,
+        "SpecialAvg": 1.1935483870967742,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 73,
+        "WordsCount": 12,
+        "WordsLenAvg": 6.083333333333333,
+        "PlChars": 2,
+        "PlAvg": 0.16666666666666666,
+        "SpecialChars": 13,
+        "SpecialAvg": 1.0833333333333333,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 73,
+        "WordsCount": 13,
+        "WordsLenAvg": 5.615384615384615,
+        "PlChars": 9,
+        "PlAvg": 0.6923076923076923,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.1538461538461537,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 193,
+        "WordsCount": 33,
+        "WordsLenAvg": 5.848484848484849,
+        "PlChars": 13,
+        "PlAvg": 0.3939393939393939,
+        "SpecialChars": 39,
+        "SpecialAvg": 1.1818181818181819,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 584,
+        "WordsCount": 92,
+        "WordsLenAvg": 6.3478260869565215,
+        "PlChars": 36,
+        "PlAvg": 0.391304347826087,
+        "SpecialChars": 114,
+        "SpecialAvg": 1.2391304347826086,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 114,
+        "WordsCount": 20,
+        "WordsLenAvg": 5.7,
+        "PlChars": 9,
+        "PlAvg": 0.45,
+        "SpecialChars": 23,
+        "SpecialAvg": 1.15,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 212,
+        "WordsCount": 35,
+        "WordsLenAvg": 6.057142857142857,
+        "PlChars": 13,
+        "PlAvg": 0.37142857142857144,
+        "SpecialChars": 46,
+        "SpecialAvg": 1.3142857142857143,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 217,
+        "WordsCount": 36,
+        "WordsLenAvg": 6.027777777777778,
+        "PlChars": 11,
+        "PlAvg": 0.3055555555555556,
+        "SpecialChars": 48,
+        "SpecialAvg": 1.3333333333333333,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 202,
+        "WordsCount": 36,
+        "WordsLenAvg": 5.611111111111111,
+        "PlChars": 10,
+        "PlAvg": 0.2777777777777778,
+        "SpecialChars": 44,
+        "SpecialAvg": 1.2222222222222223,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 217,
+        "WordsCount": 34,
+        "WordsLenAvg": 6.382352941176471,
+        "PlChars": 19,
+        "PlAvg": 0.5588235294117647,
+        "SpecialChars": 50,
+        "SpecialAvg": 1.4705882352941178,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 222,
+        "WordsCount": 34,
+        "WordsLenAvg": 6.529411764705882,
+        "PlChars": 13,
+        "PlAvg": 0.38235294117647056,
+        "SpecialChars": 44,
+        "SpecialAvg": 1.2941176470588236,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 109,
+        "WordsCount": 17,
+        "WordsLenAvg": 6.411764705882353,
+        "PlChars": 6,
+        "PlAvg": 0.35294117647058826,
+        "SpecialChars": 20,
+        "SpecialAvg": 1.1764705882352942,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 218,
+        "WordsCount": 34,
+        "WordsLenAvg": 6.411764705882353,
+        "PlChars": 17,
+        "PlAvg": 0.5,
+        "SpecialChars": 38,
+        "SpecialAvg": 1.1176470588235294,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 177,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.8076923076923075,
+        "PlChars": 17,
+        "PlAvg": 0.6538461538461539,
+        "SpecialChars": 33,
+        "SpecialAvg": 1.2692307692307692,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 153,
+        "WordsCount": 25,
+        "WordsLenAvg": 6.12,
+        "PlChars": 14,
+        "PlAvg": 0.56,
+        "SpecialChars": 28,
+        "SpecialAvg": 1.12,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 140,
+        "WordsCount": 23,
+        "WordsLenAvg": 6.086956521739131,
+        "PlChars": 8,
+        "PlAvg": 0.34782608695652173,
+        "SpecialChars": 25,
+        "SpecialAvg": 1.0869565217391304,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 91,
+        "WordsCount": 13,
+        "WordsLenAvg": 7,
+        "PlChars": 3,
+        "PlAvg": 0.23076923076923078,
+        "SpecialChars": 14,
+        "SpecialAvg": 1.0769230769230769,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 249,
+        "WordsCount": 37,
+        "WordsLenAvg": 6.72972972972973,
+        "PlChars": 18,
+        "PlAvg": 0.4864864864864865,
+        "SpecialChars": 42,
+        "SpecialAvg": 1.135135135135135,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 874,
+        "WordsCount": 126,
+        "WordsLenAvg": 6.936507936507937,
+        "PlChars": 56,
+        "PlAvg": 0.4444444444444444,
+        "SpecialChars": 145,
+        "SpecialAvg": 1.1507936507936507,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 220,
+        "WordsCount": 31,
+        "WordsLenAvg": 7.096774193548387,
+        "PlChars": 11,
+        "PlAvg": 0.3548387096774194,
+        "SpecialChars": 37,
+        "SpecialAvg": 1.1935483870967742,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 300,
+        "WordsCount": 47,
+        "WordsLenAvg": 6.382978723404255,
+        "PlChars": 31,
+        "PlAvg": 0.6595744680851063,
+        "SpecialChars": 52,
+        "SpecialAvg": 1.1063829787234043,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 453,
+        "WordsCount": 71,
+        "WordsLenAvg": 6.380281690140845,
+        "PlChars": 32,
+        "PlAvg": 0.4507042253521127,
+        "SpecialChars": 82,
+        "SpecialAvg": 1.1549295774647887,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 324,
+        "WordsCount": 55,
+        "WordsLenAvg": 5.890909090909091,
+        "PlChars": 29,
+        "PlAvg": 0.5272727272727272,
+        "SpecialChars": 65,
+        "SpecialAvg": 1.1818181818181819,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 553,
+        "WordsCount": 81,
+        "WordsLenAvg": 6.827160493827161,
+        "PlChars": 28,
+        "PlAvg": 0.345679012345679,
+        "SpecialChars": 96,
+        "SpecialAvg": 1.1851851851851851,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 366,
+        "WordsCount": 53,
+        "WordsLenAvg": 6.90566037735849,
+        "PlChars": 33,
+        "PlAvg": 0.6226415094339622,
+        "SpecialChars": 61,
+        "SpecialAvg": 1.150943396226415,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 235,
+        "WordsCount": 38,
+        "WordsLenAvg": 6.184210526315789,
+        "PlChars": 13,
+        "PlAvg": 0.34210526315789475,
+        "SpecialChars": 44,
+        "SpecialAvg": 1.1578947368421053,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 289,
+        "WordsCount": 53,
+        "WordsLenAvg": 5.452830188679245,
+        "PlChars": 15,
+        "PlAvg": 0.2830188679245283,
+        "SpecialChars": 59,
+        "SpecialAvg": 1.1132075471698113,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 74,
+        "WordsCount": 14,
+        "WordsLenAvg": 5.285714285714286,
+        "PlChars": 4,
+        "PlAvg": 0.2857142857142857,
+        "SpecialChars": 15,
+        "SpecialAvg": 1.0714285714285714,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 97,
+        "WordsCount": 16,
+        "WordsLenAvg": 6.0625,
+        "PlChars": 6,
+        "PlAvg": 0.375,
+        "SpecialChars": 19,
+        "SpecialAvg": 1.1875,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 300,
+        "WordsCount": 43,
+        "WordsLenAvg": 6.976744186046512,
+        "PlChars": 30,
+        "PlAvg": 0.6976744186046512,
+        "SpecialChars": 51,
+        "SpecialAvg": 1.186046511627907,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 214,
+        "WordsCount": 35,
+        "WordsLenAvg": 6.114285714285714,
+        "PlChars": 13,
+        "PlAvg": 0.37142857142857144,
+        "SpecialChars": 39,
+        "SpecialAvg": 1.1142857142857143,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 230,
+        "WordsCount": 38,
+        "WordsLenAvg": 6.052631578947368,
+        "PlChars": 20,
+        "PlAvg": 0.5263157894736842,
+        "SpecialChars": 48,
+        "SpecialAvg": 1.263157894736842,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 183,
+        "WordsCount": 35,
+        "WordsLenAvg": 5.228571428571429,
+        "PlChars": 15,
+        "PlAvg": 0.42857142857142855,
+        "SpecialChars": 43,
+        "SpecialAvg": 1.2285714285714286,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 178,
+        "WordsCount": 30,
+        "WordsLenAvg": 5.933333333333334,
+        "PlChars": 17,
+        "PlAvg": 0.5666666666666667,
+        "SpecialChars": 38,
+        "SpecialAvg": 1.2666666666666666,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 174,
+        "WordsCount": 31,
+        "WordsLenAvg": 5.612903225806452,
+        "PlChars": 14,
+        "PlAvg": 0.45161290322580644,
+        "SpecialChars": 37,
+        "SpecialAvg": 1.1935483870967742,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 149,
+        "WordsCount": 19,
+        "WordsLenAvg": 7.842105263157895,
+        "PlChars": 13,
+        "PlAvg": 0.6842105263157895,
+        "SpecialChars": 23,
+        "SpecialAvg": 1.2105263157894737,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 305,
+        "WordsCount": 49,
+        "WordsLenAvg": 6.224489795918367,
+        "PlChars": 24,
+        "PlAvg": 0.4897959183673469,
+        "SpecialChars": 59,
+        "SpecialAvg": 1.2040816326530612,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 367,
+        "WordsCount": 62,
+        "WordsLenAvg": 5.919354838709677,
+        "PlChars": 23,
+        "PlAvg": 0.3709677419354839,
+        "SpecialChars": 76,
+        "SpecialAvg": 1.2258064516129032,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 381,
+        "WordsCount": 64,
+        "WordsLenAvg": 5.953125,
+        "PlChars": 32,
+        "PlAvg": 0.5,
+        "SpecialChars": 80,
+        "SpecialAvg": 1.25,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 189,
+        "WordsCount": 34,
+        "WordsLenAvg": 5.5588235294117645,
+        "PlChars": 15,
+        "PlAvg": 0.4411764705882353,
+        "SpecialChars": 42,
+        "SpecialAvg": 1.2352941176470589,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 187,
+        "WordsCount": 32,
+        "WordsLenAvg": 5.84375,
+        "PlChars": 13,
+        "PlAvg": 0.40625,
+        "SpecialChars": 40,
+        "SpecialAvg": 1.25,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 582,
+        "WordsCount": 90,
+        "WordsLenAvg": 6.466666666666667,
+        "PlChars": 55,
+        "PlAvg": 0.6111111111111112,
+        "SpecialChars": 123,
+        "SpecialAvg": 1.3666666666666667,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 162,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.230769230769231,
+        "PlChars": 12,
+        "PlAvg": 0.46153846153846156,
+        "SpecialChars": 31,
+        "SpecialAvg": 1.1923076923076923,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 172,
+        "WordsCount": 34,
+        "WordsLenAvg": 5.0588235294117645,
+        "PlChars": 14,
+        "PlAvg": 0.4117647058823529,
+        "SpecialChars": 38,
+        "SpecialAvg": 1.1176470588235294,
+        "Autor": "Słowacki"
+    },
+    {
+        "Length": 168,
+        "WordsCount": 26,
+        "WordsLenAvg": 6.461538461538462,
+        "PlChars": 15,
+        "PlAvg": 0.5769230769230769,
+        "SpecialChars": 37,
+        "SpecialAvg": 1.4230769230769231,
+        "Autor": "Słowacki"
+    }
+]

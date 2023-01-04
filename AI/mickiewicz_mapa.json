@@ -1,0 +1,3072 @@
+{
+    "litwo": {
+        "ojczyzno": 1
+    },
+    "ojczyzno": {
+        "moj": 1
+    },
+    "moj": {
+        "ty": 1,
+        "dusz": 1
+    },
+    "ty": {
+        "jesteś": 1,
+        "co": 1
+    },
+    "jesteś": {
+        "jak": 1
+    },
+    "jak": {
+        "zdrow": 1,
+        "mni": 1,
+        "śnieg": 1,
+        "gwiazd": 1,
+        "koron": 1,
+        "biał": 1,
+        "światłość": 1,
+        "obłok": 1,
+        "dziecko": 1,
+        "móg": 1,
+        "zdr": 1,
+        "pożar": 1,
+        "długo": 1,
+        "pół": 1
+    },
+    "zdrow": {
+        "ile": 1,
+        "powróciłaś": 1
+    },
+    "ile": {
+        "cię": 1
+    },
+    "cię": {
+        "trzeb": 1,
+        "strac": 1
+    },
+    "trzeb": {
+        "cen": 1
+    },
+    "cen": {
+        "ten": 1
+    },
+    "ten": {
+        "tylko": 1
+    },
+    "tylko": {
+        "się": 2,
+        "co": 1,
+        "aż": 1,
+        "chodz": 1
+    },
+    "się": {
+        "dow": 1,
+        "z": 2,
+        "nie": 1,
+        "zabaw": 1,
+        "dawn": 1,
+        "wkoło": 1,
+        "toczy": 1,
+        "wstążk": 1,
+        "drzwiczk": 1,
+        "ziem": 1,
+        "jak": 1,
+        "i": 1,
+        "wleciał": 1,
+        "ran": 1,
+        "ukłon": 1,
+        "spojrz": 1,
+        "pan": 2,
+        "ta": 1,
+        "urodz": 1,
+        "dziś": 1,
+        "na": 3,
+        "strzelb": 1,
+        "do": 1
+    },
+    "dow": {
+        "kto": 1
+    },
+    "kto": {
+        "cię": 1
+    },
+    "strac": {},
+    "dziś": {
+        "piękność": 1,
+        "nagodz": 1
+    },
+    "piękność": {
+        "twą": 1
+    },
+    "twą": {
+        "w": 1
+    },
+    "w": {
+        "całej": 1,
+        "ostr": 1,
+        "tym": 1,
+        "gościn": 1,
+        "dalekim": 1,
+        "czamar": 1,
+        "niebo": 1,
+        "polsk": 1,
+        "ręk": 1,
+        "drewnian": 1,
+        "tej": 1,
+        "petersburg": 1,
+        "jedn": 1,
+        "sadz": 1,
+        "cyfr": 1,
+        "bieg": 1,
+        "okn": 1,
+        "takim": 2,
+        "pukl": 1,
+        "węzełk": 1,
+        "drobn": 1,
+        "dłon": 1,
+        "stajni": 1,
+        "porządn": 1,
+        "dom": 2,
+        "niebytnoś": 1,
+        "tkackim": 1,
+        "któr": 2,
+        "słow": 1,
+        "ciąg": 1,
+        "czas": 1,
+        "jedno": 1,
+        "porządk": 1
+    },
+    "całej": {
+        "ozdob": 1
+    },
+    "ozdob": {
+        "widz": 1
+    },
+    "widz": {
+        "i": 1,
+        "bo": 1,
+        "sprzęt": 1,
+        "goś": 1
+    },
+    "i": {
+        "opisuj": 1,
+        "w": 1,
+        "zaraz": 1,
+        "stodoł": 1,
+        "prz": 1,
+        "wid": 1,
+        "wszerz": 1,
+        "porząd": 1,
+        "wszystkich": 1,
+        "obieg": 1,
+        "kołk": 1,
+        "oki": 1,
+        "też": 1,
+        "żywot": 1,
+        "posępn": 1,
+        "z": 4,
+        "szuk": 1,
+        "książk": 1,
+        "bezładn": 1,
+        "sukienk": 1,
+        "fijołk": 1,
+        "mięt": 1,
+        "pończoszk": 1,
+        "znow": 1,
+        "czyj": 1,
+        "tuż": 1,
+        "łabędzi": 1,
+        "klasnęł": 1,
+        "wionęł": 1,
+        "po": 1,
+        "lekk": 1,
+        "dziw": 1,
+        "przysłon": 1,
+        "cofną": 1,
+        "czu": 1,
+        "sam": 1,
+        "obrok": 1,
+        "siano": 1,
+        "on": 1,
+        "zabaw": 1,
+        "przyjaciel": 1,
+        "całow": 1,
+        "popląt": 1,
+        "westchnień": 1,
+        "now": 1,
+        "pan": 1,
+        "kobiet": 1,
+        "tam": 1,
+        "wkrót": 1,
+        "szanown": 1,
+        "jeszcz": 1,
+        "już": 1,
+        "gałęz": 1,
+        "jakob": 1,
+        "bór": 1,
+        "zgasło": 1,
+        "wnet": 1,
+        "grablisk": 1,
+        "stanęł": 1,
+        "ziemianinow": 1,
+        "dam": 1,
+        "nigd": 1
+    },
+    "opisuj": {
+        "bo": 1
+    },
+    "bo": {
+        "tęskni": 1,
+        "drzw": 1,
+        "w": 1,
+        "od": 2,
+        "sędz": 2,
+        "nie": 1,
+        "tak": 1,
+        "nawet": 1
+    },
+    "tęskni": {
+        "po": 1
+    },
+    "po": {
+        "tob": 1,
+        "wolnoś": 1,
+        "całym": 1,
+        "ścian": 1,
+        "drożyn": 1,
+        "desc": 1,
+        "kryjom": 1,
+        "łąc": 1
+    },
+    "tob": {},
+    "panno": {
+        "świ": 1
+    },
+    "świ": {
+        "co": 1,
+        "wie": 1
+    },
+    "co": {
+        "jasn": 1,
+        "gród": 1,
+        "go": 1,
+        "pod": 1,
+        "wzdłuż": 1,
+        "je": 1,
+        "wyszł": 1,
+        "zaledw": 1
+    },
+    "jasn": {
+        "bronisz": 1
+    },
+    "bronisz": {
+        "częstoch": 1
+    },
+    "częstoch": {
+        "i": 1
+    },
+    "ostr": {
+        "świecisz": 1
+    },
+    "świecisz": {
+        "bram": 1
+    },
+    "bram": {
+        "ty": 1,
+        "na": 1
+    },
+    "gród": {
+        "zamk": 1
+    },
+    "zamk": {
+        "nowogródzk": 1
+    },
+    "nowogródzk": {
+        "ochran": 1
+    },
+    "ochran": {
+        "z": 1
+    },
+    "z": {
+        "jego": 1,
+        "rzadk": 1,
+        "drzew": 1,
+        "dalek": 1,
+        "liczb": 2,
+        "powoz": 1,
+        "którym": 1,
+        "oczym": 1,
+        "polsk": 1,
+        "dziecinn": 1,
+        "kołk": 1,
+        "pachnącym": 1,
+        "okien": 1,
+        "ran": 2,
+        "parkan": 1,
+        "rąk": 1,
+        "jutrzenk": 1,
+        "now": 1,
+        "mnóstw": 1,
+        "dal": 1,
+        "krzyk": 1,
+        "czego": 1,
+        "pan": 1,
+        "żon": 1,
+        "córk": 1,
+        "tadeusz": 1,
+        "nieb": 1,
+        "pol": 1,
+        "niezwyczajn": 1,
+        "las": 1,
+        "dozorc": 1,
+        "podkomorzyn": 1
+    },
+    "jego": {
+        "wiern": 1,
+        "nieodstępn": 1,
+        "robotnik": 1
+    },
+    "wiern": {
+        "lud": 1
+    },
+    "lud": {
+        "jak": 1
+    },
+    "mni": {
+        "dziecko": 1
+    },
+    "dziecko": {
+        "do": 1,
+        "przestraszon": 1
+    },
+    "do": {
+        "zdrow": 1,
+        "twych": 1,
+        "tych": 3,
+        "dwor": 2,
+        "folwark": 1,
+        "dom": 2,
+        "łon": 1,
+        "ubr": 1,
+        "piers": 1,
+        "zwierciadł": 1,
+        "gospod": 1,
+        "las": 1,
+        "wol": 1,
+        "głęb": 1,
+        "stodoł": 1
+    },
+    "powróciłaś": {
+        "cud": 1
+    },
+    "cud": {
+        "gdy": 1,
+        "na": 1
+    },
+    "gdy": {
+        "od": 1,
+        "przysięg": 1,
+        "z": 1,
+        "się": 1,
+        "prac": 1
+    },
+    "od": {
+        "płacz": 1,
+        "ciemn": 1,
+        "wiatr": 1,
+        "gank": 1,
+        "pow": 1,
+        "kogoś": 1,
+        "mężczyzn": 1,
+        "słońc": 1,
+        "strach": 1,
+        "ran": 1,
+        "dni": 1
+    },
+    "płacz": {
+        "matk": 1
+    },
+    "matk": {
+        "pod": 1
+    },
+    "pod": {
+        "twoj": 1,
+        "strzech": 1,
+        "bram": 1,
+        "las": 2
+    },
+    "twoj": {
+        "opiek": 1
+    },
+    "opiek": {
+        "ofiarowan": 1
+    },
+    "ofiarowan": {
+        "martw": 1
+    },
+    "martw": {
+        "podnios": 1
+    },
+    "podnios": {
+        "powiek": 1
+    },
+    "powiek": {
+        "i": 1
+    },
+    "zaraz": {
+        "mog": 1
+    },
+    "mog": {
+        "pieszo": 1
+    },
+    "pieszo": {
+        "do": 1
+    },
+    "twych": {
+        "świątyń": 1
+    },
+    "świątyń": {
+        "prog": 1
+    },
+    "prog": {
+        "iść": 1
+    },
+    "iść": {
+        "za": 1
+    },
+    "za": {
+        "wrócon": 1,
+        "sznur": 1,
+        "dom": 1,
+        "starszym": 1
+    },
+    "wrócon": {
+        "życ": 1
+    },
+    "życ": {
+        "podziękow": 1
+    },
+    "podziękow": {
+        "bog": 1
+    },
+    "bog": {
+        "tak": 1
+    },
+    "tak": {
+        "nas": 1,
+        "rzucił": 1,
+        "nazywano": 1,
+        "pan": 1,
+        "zwyk": 1,
+        "każ": 1
+    },
+    "nas": {
+        "powrócisz": 1,
+        "towarzystwo": 1
+    },
+    "powrócisz": {
+        "cud": 1
+    },
+    "na": {
+        "ojczyzn": 1,
+        "niej": 1,
+        "pagórk": 1,
+        "kształt": 3,
+        "wciąż": 1,
+        "ścian": 1,
+        "stopn": 1,
+        "nim": 2,
+        "szańc": 1,
+        "stos": 1,
+        "krzesł": 1,
+        "okn": 1,
+        "brzeg": 1,
+        "piask": 2,
+        "krzak": 1,
+        "drobn": 1,
+        "park": 1,
+        "piers": 1,
+        "święt": 1,
+        "pol": 1,
+        "dol": 1,
+        "błon": 1,
+        "folwark": 2,
+        "samym": 1,
+        "pamiątk": 1,
+        "sąd": 1,
+        "młodzież": 1,
+        "spoczyn": 1,
+        "wierzch": 1,
+        "dach": 1,
+        "bok": 1
+    },
+    "ojczyzn": {
+        "łono": 1
+    },
+    "łono": {},
+    "tymczas": {
+        "przenoś": 1,
+        "na": 1
+    },
+    "przenoś": {
+        "moj": 1
+    },
+    "dusz": {
+        "utęsknion": 1
+    },
+    "utęsknion": {
+        "do": 1
+    },
+    "tych": {
+        "pagórk": 1,
+        "łąk": 1,
+        "pól": 1
+    },
+    "pagórk": {
+        "leśn": 1,
+        "niewielkim": 1
+    },
+    "leśn": {
+        "do": 1
+    },
+    "łąk": {
+        "zielon": 1
+    },
+    "zielon": {
+        "szeroko": 1,
+        "na": 1
+    },
+    "szeroko": {
+        "nad": 1
+    },
+    "nad": {
+        "błękitn": 1,
+        "brzeg": 1,
+        "nim": 1
+    },
+    "błękitn": {
+        "niemn": 1
+    },
+    "niemn": {
+        "rozciągnion": 1
+    },
+    "rozciągnion": {
+        "do": 1
+    },
+    "pól": {
+        "malowan": 1,
+        "przed": 1
+    },
+    "malowan": {
+        "zboż": 1
+    },
+    "zboż": {
+        "rozmait": 1,
+        "i": 2
+    },
+    "rozmait": {
+        "wyzłacan": 1
+    },
+    "wyzłacan": {
+        "pszenic": 1
+    },
+    "pszenic": {
+        "posrebrzan": 1
+    },
+    "posrebrzan": {
+        "żyt": 1
+    },
+    "żyt": {
+        "gdz": 1,
+        "niepełn": 1
+    },
+    "gdz": {
+        "bursztyn": 1,
+        "panieńskim": 1,
+        "mieszk": 1
+    },
+    "bursztyn": {
+        "świerzop": 1
+    },
+    "świerzop": {
+        "gryk": 1
+    },
+    "gryk": {
+        "jak": 1
+    },
+    "śnieg": {
+        "biał": 1,
+        "ślad": 1
+    },
+    "biał": {
+        "gdz": 1,
+        "świeżo": 1,
+        "jej": 1,
+        "dziwn": 1,
+        "ptak": 1
+    },
+    "panieńskim": {
+        "rumieńc": 1
+    },
+    "rumieńc": {
+        "dzięcielin": 1
+    },
+    "dzięcielin": {
+        "pał": 1
+    },
+    "pał": {
+        "a": 1
+    },
+    "a": {
+        "wszystko": 1,
+        "przed": 1,
+        "prag": 1,
+        "ciotk": 1,
+        "na": 1,
+        "twarz": 1,
+        "starz": 1,
+        "sędz": 1,
+        "młodzież": 1,
+        "każd": 1
+    },
+    "wszystko": {
+        "przepas": 1,
+        "porzucano": 1
+    },
+    "przepas": {
+        "jakb": 1
+    },
+    "jakb": {
+        "wstęg": 1
+    },
+    "wstęg": {
+        "miedz": 1
+    },
+    "miedz": {
+        "zielon": 1
+    },
+    "niej": {
+        "z": 1,
+        "trz": 1
+    },
+    "rzadk": {
+        "cich": 1
+    },
+    "cich": {
+        "gru": 1,
+        "i": 1
+    },
+    "gru": {
+        "siedz": 1
+    },
+    "siedz": {
+        "rejtan": 1
+    },
+    "śród": {
+        "takich": 1
+    },
+    "takich": {
+        "pól": 1
+    },
+    "przed": {
+        "lat": 2,
+        "gan": 2,
+        "nim": 1,
+        "dziesi": 1,
+        "młodzież": 1
+    },
+    "lat": {
+        "nad": 1,
+        "kilk": 1
+    },
+    "brzeg": {
+        "ruczaj": 1,
+        "niegdyś": 1
+    },
+    "ruczaj": {
+        "na": 1
+    },
+    "niewielkim": {
+        "we": 1
+    },
+    "we": {
+        "brzozowym": 1,
+        "zboż": 2,
+        "dwor": 1,
+        "śni": 1,
+        "dni": 1
+    },
+    "brzozowym": {
+        "gaj": 1
+    },
+    "gaj": {
+        "st": 1
+    },
+    "st": {
+        "dwór": 1,
+        "patrz": 1
+    },
+    "dwór": {
+        "szlacheck": 1
+    },
+    "szlacheck": {
+        "z": 1
+    },
+    "drzew": {
+        "lecz": 1,
+        "cał": 1
+    },
+    "lecz": {
+        "podmurowan": 1,
+        "zewsząd": 1,
+        "mniej": 1,
+        "lekk": 1,
+        "w": 2,
+        "już": 1
+    },
+    "podmurowan": {
+        "świecił": 1
+    },
+    "świecił": {
+        "się": 1
+    },
+    "dalek": {
+        "pobiel": 1,
+        "krewn": 1
+    },
+    "pobiel": {
+        "ścian": 1
+    },
+    "ścian": {
+        "tym": 1,
+        "starodawn": 1,
+        "wisiał": 1,
+        "w": 1,
+        "komnat": 1
+    },
+    "tym": {
+        "biel": 1,
+        "dom": 1,
+        "miecz": 1
+    },
+    "biel": {
+        "że": 1
+    },
+    "że": {
+        "odbit": 1,
+        "okolic": 1,
+        "w": 3,
+        "gościnn": 1,
+        "tym": 1,
+        "był": 1,
+        "mu": 1,
+        "przed": 1,
+        "u": 1
+    },
+    "odbit": {
+        "od": 1
+    },
+    "ciemn": {
+        "zielen": 1
+    },
+    "zielen": {
+        "topol": 1
+    },
+    "topol": {
+        "co": 1
+    },
+    "go": {
+        "broni": 1,
+        "powit": 1,
+        "miało": 1
+    },
+    "broni": {
+        "od": 1
+    },
+    "wiatr": {
+        "jesien": 1
+    },
+    "jesien": {},
+    "dom": {
+        "mieszkaln": 1,
+        "dostat": 1,
+        "pragną": 1,
+        "nie": 1,
+        "i": 2,
+        "sędz": 1,
+        "urządz": 1,
+        "właśn": 1,
+        "dawn": 1
+    },
+    "mieszkaln": {
+        "niewielk": 1
+    },
+    "niewielk": {
+        "lecz": 1
+    },
+    "zewsząd": {
+        "chędog": 1
+    },
+    "chędog": {
+        "i": 1
+    },
+    "stodoł": {
+        "mi": 1,
+        "ciesz": 1
+    },
+    "mi": {
+        "wielk": 1
+    },
+    "wielk": {
+        "i": 1,
+        "mniej": 1
+    },
+    "prz": {
+        "niej": 1
+    },
+    "trz": {
+        "stog": 1
+    },
+    "stog": {
+        "użątk": 1
+    },
+    "użątk": {
+        "co": 1
+    },
+    "strzech": {
+        "zmieśc": 1
+    },
+    "zmieśc": {
+        "się": 1
+    },
+    "nie": {
+        "moż": 1,
+        "bieg": 1,
+        "widz": 1,
+        "był": 2,
+        "wid": 1,
+        "byw": 1,
+        "miał": 1,
+        "było": 2,
+        "wiedz": 1,
+        "uszło": 1,
+        "chc": 1,
+        "wyszl": 1,
+        "myśl": 1,
+        "móg": 1,
+        "mog": 1,
+        "rozpraw": 1,
+        "ustaw": 1,
+        "dozwal": 1
+    },
+    "moż": {},
+    "wid": {
+        "że": 2,
+        "z": 2,
+        "było": 1,
+        "nóżk": 1,
+        "zwrócon": 1
+    },
+    "okolic": {
+        "obf": 1
+    },
+    "obf": {
+        "we": 1
+    },
+    "liczb": {
+        "kopic": 1,
+        "pług": 1
+    },
+    "kopic": {
+        "co": 1
+    },
+    "wzdłuż": {
+        "i": 1
+    },
+    "wszerz": {
+        "smug": 1
+    },
+    "smug": {
+        "świec": 1
+    },
+    "świec": {
+        "gęsto": 1,
+        "się": 1,
+        "przez": 1
+    },
+    "gęsto": {
+        "jak": 1
+    },
+    "gwiazd": {
+        "wid": 1
+    },
+    "pług": {
+        "orz": 1
+    },
+    "orz": {
+        "wcześn": 1
+    },
+    "wcześn": {
+        "łan": 1
+    },
+    "łan": {
+        "ogromn": 1
+    },
+    "ogromn": {
+        "ugor": 1,
+        "gmach": 1
+    },
+    "ugor": {
+        "czarnoziemn": 1
+    },
+    "czarnoziemn": {
+        "zapewn": 1
+    },
+    "zapewn": {
+        "należn": 1
+    },
+    "należn": {
+        "do": 1
+    },
+    "dwor": {
+        "uprawn": 1,
+        "pusto": 1,
+        "podkomorz": 1
+    },
+    "uprawn": {
+        "dobr": 1
+    },
+    "dobr": {
+        "na": 1,
+        "mój": 2
+    },
+    "kształt": {
+        "ogrodow": 1,
+        "śnieg": 1,
+        "ogromn": 1
+    },
+    "ogrodow": {
+        "grząd": 1
+    },
+    "grząd": {
+        "że": 1
+    },
+    "dostat": {
+        "mieszk": 1
+    },
+    "mieszk": {
+        "i": 1,
+        "dzieck": 1,
+        "kobié": 1,
+        "star": 1
+    },
+    "porząd": {},
+    "wciąż": {
+        "otwar": 1
+    },
+    "otwar": {
+        "przechodn": 1
+    },
+    "przechodn": {
+        "ogłasz": 1
+    },
+    "ogłasz": {
+        "że": 1
+    },
+    "gościnn": {
+        "i": 1
+    },
+    "wszystkich": {
+        "w": 1
+    },
+    "gościn": {
+        "zaprasz": 1
+    },
+    "zaprasz": {},
+    "właśn": {
+        "dwukonn": 1,
+        "kied": 1,
+        "z": 1
+    },
+    "dwukonn": {
+        "bryk": 1
+    },
+    "bryk": {
+        "wjech": 1
+    },
+    "wjech": {
+        "młod": 1
+    },
+    "młod": {
+        "pan": 1,
+        "dziewczyn": 1
+    },
+    "pan": {
+        "i": 1,
+        "wojsk": 4,
+        "zastępuj": 1,
+        "zwyk": 1,
+        "hrabi": 1,
+        "hrab": 1,
+        "sędz": 2,
+        "świ": 1,
+        "podkomorz": 1
+    },
+    "obieg": {
+        "dziedziniec": 1
+    },
+    "dziedziniec": {
+        "zawróc": 1
+    },
+    "zawróc": {
+        "przed": 1
+    },
+    "gan": {
+        "zajech": 1
+    },
+    "wysiad": {
+        "z": 1
+    },
+    "powoz": {
+        "kon": 1
+    },
+    "kon": {
+        "porzucon": 1,
+        "w": 1,
+        "goś": 1
+    },
+    "porzucon": {
+        "sam": 1
+    },
+    "sam": {
+        "szczyp": 1,
+        "widz": 1,
+        "obi": 1,
+        "portret": 1,
+        "na": 1,
+        "nie": 1,
+        "przyjmow": 1,
+        "zjech": 1
+    },
+    "szczyp": {
+        "traw": 1
+    },
+    "traw": {
+        "ciągnęł": 1,
+        "angielsk": 1
+    },
+    "ciągnęł": {
+        "powol": 1
+    },
+    "powol": {
+        "pod": 1
+    },
+    "pusto": {
+        "bo": 1
+    },
+    "drzw": {
+        "od": 1,
+        "ślad": 1
+    },
+    "gank": {
+        "zamknięto": 1
+    },
+    "zamknięto": {
+        "zaszczepk": 1
+    },
+    "zaszczepk": {
+        "i": 1,
+        "przetknięto": 1
+    },
+    "kołk": {
+        "zaszczepk": 1,
+        "zdj": 1
+    },
+    "przetknięto": {},
+    "podróżn": {
+        "do": 1,
+        "staną": 1,
+        "długo": 1,
+        "barw": 1,
+        "zląk": 1,
+        "ścisk": 1
+    },
+    "folwark": {
+        "nie": 2,
+        "dąży": 1
+    },
+    "bieg": {
+        "sług": 1,
+        "po": 1,
+        "chybkim": 1
+    },
+    "sług": {
+        "zapyt": 1
+    },
+    "zapyt": {
+        "odemkną": 1
+    },
+    "odemkną": {
+        "wbieg": 1
+    },
+    "wbieg": {
+        "do": 1,
+        "i": 1
+    },
+    "pragną": {
+        "go": 1
+    },
+    "powit": {},
+    "dawno": {
+        "dom": 1
+    },
+    "dalekim": {
+        "mieś": 1
+    },
+    "mieś": {
+        "kończy": 1
+    },
+    "kończy": {
+        "nauk": 1
+    },
+    "nauk": {
+        "końc": 1
+    },
+    "końc": {
+        "doczek": 1,
+        "dziej": 1
+    },
+    "doczek": {
+        "naresz": 1
+    },
+    "naresz": {},
+    "oki": {
+        "chciw": 1,
+        "daleko": 1
+    },
+    "chciw": {
+        "ścian": 1
+    },
+    "starodawn": {
+        "ogląd": 1
+    },
+    "ogląd": {
+        "czul": 1
+    },
+    "czul": {
+        "jako": 1
+    },
+    "jako": {
+        "swe": 1,
+        "w": 1,
+        "świec": 1
+    },
+    "swe": {
+        "znajom": 1
+    },
+    "znajom": {
+        "dawn": 1
+    },
+    "dawn": {
+        "zdał": 1,
+        "z": 1,
+        "obyczaj": 1
+    },
+    "też": {
+        "sam": 3
+    },
+    "sprzęt": {
+        "też": 1
+    },
+    "obi": {
+        "z": 1
+    },
+    "którym": {
+        "się": 1
+    },
+    "zabaw": {
+        "lub": 1,
+        "goś": 1
+    },
+    "lub": {
+        "od": 1
+    },
+    "pow": {
+        "lecz": 1
+    },
+    "mniej": {
+        "wielk": 1,
+        "piękn": 1,
+        "siln": 1
+    },
+    "piękn": {
+        "niż": 1,
+        "i": 1
+    },
+    "niż": {
+        "się": 1,
+        "we": 1
+    },
+    "zdał": {},
+    "portret": {
+        "na": 1
+    },
+    "wisiał": {
+        "tu": 1
+    },
+    "tu": {
+        "kościuszko": 1,
+        "mieszk": 1
+    },
+    "kościuszko": {
+        "w": 1
+    },
+    "czamar": {
+        "krakowsk": 1
+    },
+    "krakowsk": {
+        "z": 1
+    },
+    "oczym": {
+        "podniesionym": 1,
+        "ciekawym": 1
+    },
+    "podniesionym": {
+        "w": 1
+    },
+    "niebo": {
+        "miecz": 1
+    },
+    "miecz": {
+        "oburącz": 1,
+        "wypędz": 1
+    },
+    "oburącz": {
+        "trzym": 1
+    },
+    "trzym": {
+        "takim": 1,
+        "nóż": 1
+    },
+    "takim": {
+        "był": 1,
+        "litwink": 1,
+        "nigd": 1
+    },
+    "był": {
+        "gdy": 1,
+        "żonat": 1,
+        "ochmistrzyn": 1,
+        "rączk": 1,
+        "maleńk": 1,
+        "świeżo": 1,
+        "i": 1,
+        "zostawion": 1,
+        "odgadyw": 1,
+        "ekonomow": 1
+    },
+    "przysięg": {
+        "na": 1
+    },
+    "stopn": {
+        "ołtarz": 1
+    },
+    "ołtarz": {
+        "że": 1
+    },
+    "wypędz": {
+        "z": 1
+    },
+    "polsk": {
+        "trzech": 1,
+        "sza": 1
+    },
+    "trzech": {
+        "mocarz": 1
+    },
+    "mocarz": {
+        "albo": 1
+    },
+    "albo": {
+        "sam": 1
+    },
+    "nim": {
+        "padn": 1,
+        "leż": 1,
+        "nut": 1,
+        "spostrzeg": 1,
+        "się": 1,
+        "czerwon": 1
+    },
+    "padn": {},
+    "dalej": {
+        "w": 1,
+        "jasińsk": 1
+    },
+    "sza": {
+        "siedz": 1
+    },
+    "rejtan": {
+        "żałośn": 1
+    },
+    "żałośn": {
+        "po": 1
+    },
+    "wolnoś": {
+        "str": 1
+    },
+    "str": {
+        "w": 1
+    },
+    "ręk": {
+        "trzym": 1
+    },
+    "nóż": {
+        "ostrz": 1
+    },
+    "ostrz": {
+        "zwrócon": 1
+    },
+    "zwrócon": {
+        "do": 1,
+        "na": 1
+    },
+    "łon": {
+        "a": 1
+    },
+    "leż": {
+        "fedon": 1
+    },
+    "fedon": {
+        "i": 1
+    },
+    "żywot": {
+        "katon": 1
+    },
+    "katon": {},
+    "jasińsk": {
+        "młodzian": 1
+    },
+    "młodzian": {
+        "piękn": 1
+    },
+    "posępn": {
+        "obok": 1
+    },
+    "obok": {
+        "kors": 1,
+        "pan": 1
+    },
+    "kors": {
+        "towarzysz": 1
+    },
+    "towarzysz": {
+        "jego": 1
+    },
+    "nieodstępn": {
+        "stoj": 1
+    },
+    "stoj": {
+        "na": 1
+    },
+    "szańc": {
+        "prag": 1
+    },
+    "prag": {
+        "na": 1,
+        "już": 1
+    },
+    "stos": {
+        "moskal": 1
+    },
+    "moskal": {
+        "siek": 1
+    },
+    "siek": {
+        "wrog": 1
+    },
+    "wrog": {
+        "a": 1
+    },
+    "już": {
+        "się": 1,
+        "jej": 1,
+        "kon": 1,
+        "im": 1,
+        "zjech": 1,
+        "krąg": 1,
+        "pomrok": 1,
+        "skład": 1
+    },
+    "wkoło": {
+        "pal": 1
+    },
+    "pal": {},
+    "nawet": {
+        "star": 1,
+        "woz": 1
+    },
+    "star": {
+        "stojąc": 1,
+        "dąbrowsk": 1,
+        "stryj": 1
+    },
+    "stojąc": {
+        "zegar": 1
+    },
+    "zegar": {
+        "kurant": 1
+    },
+    "kurant": {
+        "w": 1
+    },
+    "drewnian": {
+        "szaf": 1,
+        "drobn": 1
+    },
+    "szaf": {
+        "pozn": 1
+    },
+    "pozn": {
+        "u": 1,
+        "z": 1
+    },
+    "u": {
+        "wniś": 1,
+        "wieczerz": 1,
+        "nas": 1,
+        "niego": 1
+    },
+    "wniś": {
+        "alk": 1
+    },
+    "alk": {
+        "i": 1
+    },
+    "dziecinn": {
+        "radości": 1
+    },
+    "radości": {
+        "pociągną": 1
+    },
+    "pociągną": {
+        "za": 1
+    },
+    "sznur": {
+        "by": 1
+    },
+    "by": {
+        "star": 1,
+        "tu": 1,
+        "chybiano": 1
+    },
+    "dąbrowsk": {
+        "usłysz": 1
+    },
+    "usłysz": {
+        "mazur": 1
+    },
+    "mazur": {},
+    "całym": {
+        "dom": 1
+    },
+    "szuk": {
+        "komnat": 1
+    },
+    "komnat": {
+        "gdz": 1,
+        "nim": 1
+    },
+    "dzieck": {
+        "będ": 1
+    },
+    "będ": {
+        "przed": 1
+    },
+    "dziesi": {
+        "lat": 1
+    },
+    "wchodz": {
+        "cofną": 1
+    },
+    "cofną": {
+        "się": 2
+    },
+    "toczy": {
+        "zdumion": 1
+    },
+    "zdumion": {
+        "źren": 1
+    },
+    "źren": {
+        "po": 1
+    },
+    "tej": {
+        "komn": 1
+    },
+    "komn": {
+        "mieszk": 1
+    },
+    "kobié": {
+        "któż": 1
+    },
+    "któż": {
+        "by": 1
+    },
+    "stryj": {
+        "nie": 1,
+        "myśl": 1
+    },
+    "żonat": {
+        "a": 1
+    },
+    "ciotk": {
+        "w": 1
+    },
+    "petersburg": {
+        "mieszkał": 1
+    },
+    "mieszkał": {
+        "przed": 1
+    },
+    "to": {
+        "nie": 1,
+        "dziwaczn": 1
+    },
+    "ochmistrzyn": {
+        "pokój": 1
+    },
+    "pokój": {
+        "fortepiano": 1
+    },
+    "fortepiano": {
+        "na": 1
+    },
+    "nut": {
+        "i": 1
+    },
+    "książk": {
+        "wszystko": 1
+    },
+    "porzucano": {
+        "niedbal": 1
+    },
+    "niedbal": {
+        "i": 1,
+        "słudz": 1
+    },
+    "bezładn": {
+        "nieporząd": 1
+    },
+    "nieporząd": {
+        "mił": 1
+    },
+    "mił": {
+        "niestar": 1
+    },
+    "niestar": {
+        "był": 1
+    },
+    "rączk": {
+        "co": 1
+    },
+    "je": {
+        "tak": 1,
+        "na": 1
+    },
+    "rzucił": {},
+    "tuż": {
+        "i": 1,
+        "stało": 1,
+        "na": 1,
+        "za": 1
+    },
+    "sukienk": {
+        "biał": 1
+    },
+    "świeżo": {
+        "z": 1,
+        "polew": 1,
+        "trącon": 1
+    },
+    "zdj": {
+        "do": 1
+    },
+    "ubr": {
+        "na": 1,
+        "wysmukł": 1,
+        "nagotow": 1
+    },
+    "krzesł": {
+        "poręcz": 1
+    },
+    "poręcz": {
+        "rozpi": 1
+    },
+    "rozpi": {
+        "a": 1
+    },
+    "okn": {
+        "don": 1,
+        "st": 1
+    },
+    "don": {
+        "z": 1
+    },
+    "pachnącym": {
+        "ziołk": 1
+    },
+    "ziołk": {
+        "geranium": 1
+    },
+    "geranium": {
+        "lewkonij": 1
+    },
+    "lewkonij": {
+        "astr": 1
+    },
+    "astr": {
+        "i": 1
+    },
+    "fijołk": {
+        "skłon": 1
+    },
+    "staną": {
+        "w": 1
+    },
+    "jedn": {
+        "z": 1
+    },
+    "okien": {
+        "now": 1
+    },
+    "now": {
+        "dziwo": 1,
+        "goś": 1,
+        "powitań": 1
+    },
+    "dziwo": {
+        "w": 1
+    },
+    "sadz": {
+        "na": 1
+    },
+    "niegdyś": {
+        "zarosłym": 1
+    },
+    "zarosłym": {
+        "pokrzyw": 1
+    },
+    "pokrzyw": {
+        "był": 1
+    },
+    "maleńk": {
+        "ogród": 1
+    },
+    "ogród": {
+        "ścieżk": 1
+    },
+    "ścieżk": {
+        "porznięt": 1
+    },
+    "porznięt": {
+        "pełen": 1
+    },
+    "pełen": {
+        "bukiet": 1
+    },
+    "bukiet": {
+        "traw": 1
+    },
+    "angielsk": {
+        "i": 1
+    },
+    "mięt": {},
+    "drobn": {
+        "w": 1,
+        "suchym": 1,
+        "ślad": 1,
+        "strączk": 1
+    },
+    "cyfr": {
+        "powiązan": 1
+    },
+    "powiązan": {
+        "płot": 1
+    },
+    "płot": {
+        "połysk": 1
+    },
+    "połysk": {
+        "się": 1
+    },
+    "wstążk": {
+        "jaskraw": 1
+    },
+    "jaskraw": {
+        "stokrot": 1
+    },
+    "stokrot": {
+        "grządk": 1
+    },
+    "grządk": {
+        "wid": 1
+    },
+    "polew": {
+        "tuż": 1
+    },
+    "stało": {
+        "wod": 1
+    },
+    "wod": {
+        "pełn": 1
+    },
+    "pełn": {
+        "naczyn": 1
+    },
+    "naczyn": {
+        "blasz": 1
+    },
+    "blasz": {
+        "ale": 1
+    },
+    "ale": {
+        "nigdz": 1,
+        "nie": 1,
+        "szerz": 1
+    },
+    "nigdz": {
+        "nie": 1
+    },
+    "było": {
+        "ogrodniczk": 1,
+        "wid": 1
+    },
+    "ogrodniczk": {
+        "tylko": 1
+    },
+    "wyszł": {
+        "jeszcz": 1
+    },
+    "jeszcz": {
+        "kołysz": 1,
+        "się": 1,
+        "przez": 1
+    },
+    "kołysz": {
+        "się": 1
+    },
+    "drzwiczk": {
+        "świeżo": 1
+    },
+    "trącon": {
+        "blisko": 1
+    },
+    "blisko": {
+        "drzw": 1
+    },
+    "ślad": {
+        "wid": 1,
+        "wyraźn": 1,
+        "zatrzymyw": 1
+    },
+    "nóżk": {
+        "na": 1,
+        "drobnem": 1
+    },
+    "piask": {
+        "bez": 1,
+        "drobn": 1
+    },
+    "bez": {
+        "trzewik": 1
+    },
+    "trzewik": {
+        "był": 1
+    },
+    "pończoszk": {
+        "na": 1
+    },
+    "suchym": {
+        "białym": 1
+    },
+    "białym": {
+        "na": 1
+    },
+    "wyraźn": {
+        "lecz": 1
+    },
+    "lekk": {
+        "odgadn": 1,
+        "jak": 1
+    },
+    "odgadn": {
+        "że": 1
+    },
+    "chybkim": {
+        "był": 1
+    },
+    "zostawion": {
+        "nóżk": 1
+    },
+    "drobnem": {
+        "od": 1
+    },
+    "kogoś": {
+        "co": 1,
+        "oki": 1
+    },
+    "zaledw": {
+        "dotyk": 1
+    },
+    "dotyk": {
+        "się": 1
+    },
+    "ziem": {},
+    "długo": {
+        "w": 1,
+        "pracow": 1
+    },
+    "patrz": {
+        "dumaj": 1
+    },
+    "dumaj": {
+        "wonnym": 1
+    },
+    "wonnym": {
+        "powiew": 1
+    },
+    "powiew": {
+        "kwiat": 1
+    },
+    "kwiat": {
+        "oddychaj": 1,
+        "i": 1
+    },
+    "oddychaj": {},
+    "oblicz": {
+        "aż": 1,
+        "gospodarz": 1
+    },
+    "aż": {
+        "na": 1,
+        "do": 1
+    },
+    "krzak": {
+        "fijołk": 1
+    },
+    "skłon": {
+        "oczym": 1
+    },
+    "ciekawym": {
+        "po": 1
+    },
+    "drożyn": {
+        "gon": 1
+    },
+    "gon": {
+        "i": 1
+    },
+    "znow": {
+        "je": 1
+    },
+    "zatrzymyw": {
+        "myśl": 1
+    },
+    "myśl": {
+        "o": 1,
+        "wcal": 1,
+        "wkrót": 1
+    },
+    "o": {
+        "nich": 1,
+        "ścian": 1,
+        "jak": 1,
+        "porządk": 1
+    },
+    "nich": {
+        "i": 1
+    },
+    "czyj": {
+        "był": 1
+    },
+    "odgadyw": {},
+    "przypadk": {
+        "ocz": 1
+    },
+    "ocz": {
+        "podniós": 1,
+        "zmruży": 1
+    },
+    "podniós": {
+        "i": 1
+    },
+    "park": {
+        "stał": 1
+    },
+    "stał": {
+        "młod": 1
+    },
+    "dziewczyn": {
+        "biał": 1
+    },
+    "jej": {
+        "ubr": 1,
+        "wypadł": 1,
+        "nie": 1
+    },
+    "wysmukł": {
+        "post": 1
+    },
+    "post": {
+        "tylko": 1
+    },
+    "piers": {
+        "kryj": 1,
+        "przydawaj": 1
+    },
+    "kryj": {
+        "odsłaniaj": 1
+    },
+    "odsłaniaj": {
+        "ramion": 1
+    },
+    "ramion": {
+        "i": 1
+    },
+    "łabędzi": {
+        "szyj": 1
+    },
+    "szyj": {},
+    "litwink": {
+        "tylko": 1
+    },
+    "chodz": {
+        "zwykł": 1
+    },
+    "zwykł": {
+        "z": 1
+    },
+    "ran": {
+        "w": 1,
+        "bo": 1,
+        "wiedz": 1
+    },
+    "nigd": {
+        "nie": 3
+    },
+    "byw": {
+        "od": 1
+    },
+    "mężczyzn": {
+        "widzian": 1,
+        "i": 1
+    },
+    "widzian": {
+        "więc": 1
+    },
+    "więc": {
+        "choć": 1,
+        "jak": 1
+    },
+    "choć": {
+        "świadk": 1
+    },
+    "świadk": {
+        "nie": 1
+    },
+    "miał": {
+        "założył": 1
+    },
+    "założył": {
+        "ręc": 1
+    },
+    "ręc": {
+        "na": 1,
+        "rozkrzyżow": 1
+    },
+    "przydawaj": {
+        "zasłon": 1
+    },
+    "zasłon": {
+        "sukien": 1
+    },
+    "sukien": {},
+    "włos": {
+        "w": 1
+    },
+    "pukl": {
+        "nierozwit": 1
+    },
+    "nierozwit": {
+        "lecz": 1
+    },
+    "węzełk": {
+        "mał": 1
+    },
+    "mał": {
+        "pokręcon": 1,
+        "z": 1
+    },
+    "pokręcon": {
+        "schowan": 1
+    },
+    "schowan": {
+        "w": 1
+    },
+    "strączk": {
+        "biał": 1
+    },
+    "dziwn": {
+        "ozdab": 1
+    },
+    "ozdab": {
+        "głow": 1
+    },
+    "głow": {
+        "bo": 1
+    },
+    "słońc": {
+        "blask": 1
+    },
+    "blask": {
+        "świec": 1
+    },
+    "koron": {
+        "na": 1
+    },
+    "święt": {
+        "obrazk": 1,
+        "bo": 1
+    },
+    "obrazk": {},
+    "twarz": {
+        "nie": 1,
+        "od": 1,
+        "podróżn": 1
+    },
+    "pol": {
+        "szukał": 1
+    },
+    "szukał": {
+        "kogoś": 1
+    },
+    "daleko": {
+        "na": 1
+    },
+    "dol": {
+        "ujrzał": 1
+    },
+    "ujrzał": {
+        "zaśmiał": 1,
+        "młodzieńc": 1
+    },
+    "zaśmiał": {
+        "się": 1
+    },
+    "klasnęł": {
+        "w": 1
+    },
+    "dłon": {
+        "jak": 1
+    },
+    "ptak": {
+        "zleciał": 1
+    },
+    "zleciał": {
+        "z": 1
+    },
+    "parkan": {
+        "na": 1
+    },
+    "błon": {
+        "i": 1
+    },
+    "wionęł": {
+        "ogrod": 1
+    },
+    "ogrod": {
+        "przez": 1
+    },
+    "przez": {
+        "płotk": 1,
+        "kwiat": 1,
+        "okno": 1,
+        "konar": 1,
+        "okiennic": 1
+    },
+    "płotk": {
+        "przez": 1
+    },
+    "desc": {
+        "opart": 1
+    },
+    "opart": {
+        "o": 1
+    },
+    "spostrzeg": {
+        "się": 1
+    },
+    "wleciał": {
+        "przez": 1
+    },
+    "okno": {
+        "świecąc": 1
+    },
+    "świecąc": {
+        "nagł": 1
+    },
+    "nagł": {
+        "cich": 1
+    },
+    "światłość": {
+        "miesiąc": 1
+    },
+    "miesiąc": {},
+    "nuc": {
+        "chwycił": 1
+    },
+    "chwycił": {
+        "sukn": 1
+    },
+    "sukn": {
+        "biegł": 1
+    },
+    "biegł": {
+        "do": 1
+    },
+    "zwierciadł": {
+        "wt": 1
+    },
+    "wt": {
+        "ujrzał": 1,
+        "zapadło": 1
+    },
+    "młodzieńc": {
+        "i": 1,
+        "któr": 1
+    },
+    "rąk": {
+        "jej": 1
+    },
+    "wypadł": {
+        "suk": 1
+    },
+    "suk": {
+        "a": 1
+    },
+    "strach": {
+        "i": 1
+    },
+    "dziw": {
+        "pobladł": 1
+    },
+    "pobladł": {},
+    "barw": {
+        "spłonęł": 1
+    },
+    "spłonęł": {
+        "rumian": 1
+    },
+    "rumian": {
+        "jak": 1
+    },
+    "obłok": {
+        "gdy": 1
+    },
+    "jutrzenk": {
+        "napotk": 1
+    },
+    "napotk": {
+        "się": 1
+    },
+    "skromn": {
+        "młodzieniec": 1
+    },
+    "młodzieniec": {
+        "ocz": 1
+    },
+    "zmruży": {
+        "i": 1
+    },
+    "przysłon": {
+        "chc": 1
+    },
+    "chc": {
+        "coś": 1,
+        "według": 1
+    },
+    "coś": {
+        "mów": 1
+    },
+    "mów": {
+        "przeprasz": 1
+    },
+    "przeprasz": {
+        "tylko": 1
+    },
+    "ukłon": {
+        "i": 1
+    },
+    "dziewic": {
+        "krzyknęł": 1
+    },
+    "krzyknęł": {
+        "boleśn": 1
+    },
+    "boleśn": {
+        "niewyraźn": 1
+    },
+    "niewyraźn": {
+        "jak": 1
+    },
+    "przestraszon": {
+        "we": 1
+    },
+    "śni": {
+        "podróżn": 1
+    },
+    "zląk": {
+        "się": 1
+    },
+    "spojrz": {
+        "lecz": 1
+    },
+    "wyszed": {
+        "zmieszan": 1
+    },
+    "zmieszan": {
+        "i": 1,
+        "rozm": 1
+    },
+    "czu": {
+        "że": 1
+    },
+    "mu": {
+        "serc": 1
+    },
+    "serc": {
+        "biło": 1
+    },
+    "biło": {
+        "głośno": 1
+    },
+    "głośno": {
+        "i": 1
+    },
+    "wiedz": {
+        "czy": 1,
+        "że": 1
+    },
+    "czy": {
+        "go": 1,
+        "wstydz": 1,
+        "cieszyć": 1
+    },
+    "miało": {
+        "śmieszyć": 1
+    },
+    "śmieszyć": {
+        "to": 1
+    },
+    "dziwaczn": {
+        "spotk": 1
+    },
+    "spotk": {
+        "czy": 1,
+        "stryjaszk": 1
+    },
+    "wstydz": {
+        "czy": 1
+    },
+    "cieszyć": {},
+    "uszło": {
+        "bacznoś": 1
+    },
+    "bacznoś": {
+        "że": 1
+    },
+    "zajech": {
+        "któryś": 1
+    },
+    "któryś": {
+        "z": 1
+    },
+    "goś": {
+        "żyd": 1,
+        "dalek": 1,
+        "na": 1,
+        "siedz": 1
+    },
+    "stajni": {
+        "wzięto": 1
+    },
+    "wzięto": {
+        "już": 1
+    },
+    "im": {
+        "hojn": 1
+    },
+    "hojn": {
+        "dano": 1
+    },
+    "dano": {
+        "jako": 1
+    },
+    "porządn": {
+        "dom": 1
+    },
+    "obrok": {
+        "i": 1
+    },
+    "siano": {
+        "bo": 1
+    },
+    "sędz": {
+        "nigd": 1,
+        "służono": 1,
+        "każ": 1,
+        "a": 1,
+        "wol": 1,
+        "szed": 1,
+        "w": 1
+    },
+    "według": {
+        "nowej": 1
+    },
+    "nowej": {
+        "mod": 1
+    },
+    "mod": {
+        "odsy": 1
+    },
+    "odsy": {
+        "kon": 1
+    },
+    "żyd": {
+        "do": 1
+    },
+    "gospod": {},
+    "słudz": {
+        "nie": 1,
+        "czekaj": 1
+    },
+    "wyszl": {
+        "wit": 1
+    },
+    "wit": {
+        "ale": 1
+    },
+    "wcal": {
+        "aby": 1
+    },
+    "aby": {
+        "w": 1
+    },
+    "służono": {
+        "niedbal": 1
+    },
+    "czekaj": {
+        "nim": 1
+    },
+    "wojsk": {
+        "ubier": 1,
+        "pozn": 1,
+        "dosyć": 1,
+        "z": 1
+    },
+    "ubier": {
+        "któr": 1
+    },
+    "któr": {
+        "teraz": 1,
+        "lat": 1,
+        "nos": 1,
+        "już": 1
+    },
+    "teraz": {
+        "za": 1
+    },
+    "urządz": {
+        "wieczerz": 1
+    },
+    "wieczerz": {
+        "będz": 1
+    },
+    "on": {
+        "pan": 1,
+        "w": 1
+    },
+    "zastępuj": {
+        "i": 1
+    },
+    "niebytnoś": {
+        "pan": 1
+    },
+    "zwyk": {
+        "sam": 1,
+        "maw": 1
+    },
+    "przyjmow": {
+        "i": 1
+    },
+    "krewn": {
+        "pańsk": 1
+    },
+    "pańsk": {
+        "i": 1
+    },
+    "przyjaciel": {
+        "dom": 1
+    },
+    "dąży": {
+        "po": 1
+    },
+    "kryjom": {
+        "bo": 1
+    },
+    "móg": {
+        "wyjść": 1,
+        "prędz": 1
+    },
+    "wyjść": {
+        "spotyk": 1
+    },
+    "spotyk": {
+        "w": 1
+    },
+    "tkackim": {
+        "puderm": 1
+    },
+    "puderm": {
+        "wdz": 1
+    },
+    "wdz": {
+        "więc": 1
+    },
+    "prędz": {
+        "niedzieln": 1
+    },
+    "niedzieln": {
+        "ubr": 1
+    },
+    "nagotow": {
+        "z": 1
+    },
+    "będz": {
+        "z": 1
+    },
+    "mnóstw": {
+        "goś": 1
+    },
+    "dal": {
+        "ręc": 1
+    },
+    "rozkrzyżow": {
+        "i": 1
+    },
+    "krzyk": {
+        "podróżn": 1
+    },
+    "ścisk": {
+        "i": 1
+    },
+    "całow": {},
+    "zaczęł": {
+        "się": 1
+    },
+    "ta": {
+        "prędk": 1
+    },
+    "prędk": {
+        "zmieszan": 1
+    },
+    "rozm": {
+        "w": 1
+    },
+    "kilk": {
+        "dziej": 1,
+        "zbier": 1
+    },
+    "dziej": {
+        "chciano": 1,
+        "tego": 1
+    },
+    "chciano": {
+        "zamknąć": 1
+    },
+    "zamknąć": {
+        "w": 1
+    },
+    "słow": {
+        "krótk": 1
+    },
+    "krótk": {
+        "i": 1
+    },
+    "popląt": {
+        "w": 1
+    },
+    "ciąg": {
+        "powieś": 1
+    },
+    "powieś": {
+        "pytań": 1
+    },
+    "pytań": {
+        "wykrzyknik": 1
+    },
+    "wykrzyknik": {
+        "i": 1
+    },
+    "westchnień": {
+        "i": 1
+    },
+    "powitań": {},
+    "dosyć": {
+        "napyt": 1
+    },
+    "napyt": {
+        "nabad": 1
+    },
+    "nabad": {
+        "na": 1
+    },
+    "samym": {
+        "końc": 1
+    },
+    "tego": {
+        "dni": 1
+    },
+    "dni": {
+        "powiad": 1,
+        "kilk": 1,
+        "świeciło": 1,
+        "kończ": 1
+    },
+    "powiad": {},
+    "mój": {
+        "tadeusz": 2
+    },
+    "tadeusz": {
+        "bo": 1,
+        "żeś": 1,
+        "idą": 1
+    },
+    "nazywano": {
+        "młodzieńc": 1
+    },
+    "nos": {
+        "kościuszkowsk": 1
+    },
+    "kościuszkowsk": {
+        "miano": 1
+    },
+    "miano": {
+        "na": 1
+    },
+    "pamiątk": {
+        "że": 1
+    },
+    "czas": {
+        "wojn": 1,
+        "i": 1
+    },
+    "wojn": {
+        "się": 1
+    },
+    "urodz": {
+        "dobr": 1,
+        "rozum": 1
+    },
+    "żeś": {
+        "się": 1
+    },
+    "nagodz": {
+        "do": 1
+    },
+    "kied": {
+        "mam": 1,
+        "znijdz": 1
+    },
+    "mam": {
+        "panien": 1
+    },
+    "panien": {
+        "wiel": 1
+    },
+    "wiel": {},
+    "wkrót": {
+        "spraw": 1,
+        "spotk": 1
+    },
+    "spraw": {
+        "ci": 1
+    },
+    "ci": {
+        "wesel": 1
+    },
+    "wesel": {
+        "jest": 1
+    },
+    "jest": {
+        "z": 1
+    },
+    "czego": {
+        "wybr": 1
+    },
+    "wybr": {
+        "u": 1
+    },
+    "towarzystwo": {
+        "liczn": 1,
+        "cał": 1
+    },
+    "liczn": {
+        "od": 1
+    },
+    "zbier": {
+        "się": 1
+    },
+    "sąd": {
+        "graniczn": 1
+    },
+    "graniczn": {
+        "dla": 1
+    },
+    "dla": {
+        "skończ": 1,
+        "wiek": 1
+    },
+    "skończ": {
+        "dawn": 1
+    },
+    "hrabi": {
+        "spor": 1
+    },
+    "spor": {},
+    "hrab": {
+        "ma": 1
+    },
+    "ma": {
+        "jutro": 1
+    },
+    "jutro": {
+        "sam": 1
+    },
+    "zjech": {
+        "do": 1,
+        "z": 1
+    },
+    "podkomorz": {
+        "już": 1,
+        "otoczon": 1
+    },
+    "żon": {
+        "i": 1
+    },
+    "córk": {},
+    "młodzież": {
+        "poszł": 1,
+        "czekaj": 1,
+        "na": 1,
+        "o": 1
+    },
+    "poszł": {
+        "do": 1
+    },
+    "las": {
+        "baw": 1,
+        "i": 1,
+        "drog": 1,
+        "wiąż": 1,
+        "wracało": 1
+    },
+    "baw": {
+        "się": 1
+    },
+    "strzelb": {
+        "a": 1
+    },
+    "starz": {
+        "i": 1
+    },
+    "kobiet": {
+        "żniwo": 1
+    },
+    "żniwo": {
+        "oglądaj": 1
+    },
+    "oglądaj": {
+        "pod": 1
+    },
+    "tam": {
+        "pewn": 1,
+        "nie": 1
+    },
+    "pewn": {
+        "na": 1
+    },
+    "pójdz": {
+        "jeśl": 1
+    },
+    "jeśl": {
+        "zechc": 1
+    },
+    "zechc": {
+        "i": 1
+    },
+    "stryjaszk": {
+        "podkomorstwo": 1
+    },
+    "podkomorstwo": {
+        "i": 1
+    },
+    "szanown": {
+        "dam": 1
+    },
+    "dam": {
+        "nie": 1
+    },
+    "idą": {
+        "pod": 1
+    },
+    "drog": {
+        "i": 1
+    },
+    "wol": {
+        "nagad": 1,
+        "był": 1
+    },
+    "nagad": {
+        "nie": 1
+    },
+    "słoń": {
+        "ostatnich": 1,
+        "nad": 1,
+        "jego": 1
+    },
+    "ostatnich": {
+        "kres": 1
+    },
+    "kres": {
+        "nieb": 1
+    },
+    "nieb": {
+        "dochodziło": 1,
+        "czas": 1
+    },
+    "dochodziło": {
+        "mniej": 1
+    },
+    "siln": {
+        "ale": 1
+    },
+    "szerz": {
+        "niż": 1
+    },
+    "świeciło": {
+        "cał": 1
+    },
+    "cał": {
+        "zaczerwienion": 1,
+        "las": 1,
+        "wesoł": 1
+    },
+    "zaczerwienion": {
+        "jak": 1
+    },
+    "zdr": {
+        "oblicz": 1
+    },
+    "gospodarz": {
+        "gdy": 1
+    },
+    "prac": {
+        "skończyw": 1,
+        "gospodar": 1
+    },
+    "skończyw": {
+        "rolnicz": 1
+    },
+    "rolnicz": {
+        "na": 1
+    },
+    "spoczyn": {
+        "powrac": 1
+    },
+    "powrac": {},
+    "krąg": {
+        "promienist": 1
+    },
+    "promienist": {
+        "spuszcz": 1
+    },
+    "spuszcz": {
+        "się": 1
+    },
+    "wierzch": {
+        "bor": 1
+    },
+    "bor": {
+        "i": 1
+    },
+    "pomrok": {
+        "mglist": 1
+    },
+    "mglist": {
+        "napełniaj": 1
+    },
+    "napełniaj": {
+        "wierzchołk": 1
+    },
+    "wierzchołk": {
+        "i": 1
+    },
+    "gałęz": {
+        "drzew": 1
+    },
+    "wiąż": {
+        "w": 1
+    },
+    "jedno": {
+        "i": 1
+    },
+    "jakob": {
+        "zlew": 1
+    },
+    "zlew": {
+        "i": 1
+    },
+    "bór": {
+        "czern": 1
+    },
+    "czern": {
+        "się": 1
+    },
+    "gmach": {
+        "słoń": 1
+    },
+    "czerwon": {
+        "jak": 1
+    },
+    "pożar": {
+        "na": 1
+    },
+    "dach": {},
+    "zapadło": {
+        "do": 1
+    },
+    "głęb": {
+        "jeszcz": 1
+    },
+    "konar": {
+        "błysnęło": 1
+    },
+    "błysnęło": {
+        "jako": 1
+    },
+    "okiennic": {
+        "szpar": 1
+    },
+    "szpar": {
+        "i": 1
+    },
+    "zgasło": {},
+    "wnet": {
+        "sierp": 1
+    },
+    "sierp": {
+        "gromadn": 1
+    },
+    "gromadn": {
+        "dzwoni": 1
+    },
+    "dzwoni": {
+        "we": 1
+    },
+    "grablisk": {
+        "suw": 1
+    },
+    "suw": {
+        "po": 1
+    },
+    "łąc": {
+        "ucichł": 1
+    },
+    "ucichł": {
+        "i": 1
+    },
+    "stanęł": {
+        "tak": 1
+    },
+    "każ": {
+        "u": 1,
+        "przyzwoitość": 1
+    },
+    "niego": {
+        "ze": 1
+    },
+    "ze": {
+        "dni": 1
+    },
+    "kończ": {
+        "prac": 1
+    },
+    "gospodar": {},
+    "wie": {
+        "jak": 1
+    },
+    "pracow": {
+        "potrzeb": 1
+    },
+    "potrzeb": {
+        "słoń": 1
+    },
+    "robotnik": {
+        "kied": 1
+    },
+    "znijdz": {
+        "z": 1
+    },
+    "ziemianinow": {
+        "ustępow": 1
+    },
+    "ustępow": {
+        "z": 1
+    },
+    "maw": {
+        "pan": 1
+    },
+    "ekonomow": {
+        "poczciwem": 1
+    },
+    "poczciwem": {
+        "święt": 1
+    },
+    "woz": {
+        "w": 1
+    },
+    "skład": {
+        "zaczęto": 1
+    },
+    "zaczęto": {
+        "kop": 1
+    },
+    "kop": {
+        "żyt": 1
+    },
+    "niepełn": {
+        "jad": 1
+    },
+    "jad": {
+        "do": 1
+    },
+    "ciesz": {
+        "się": 1
+    },
+    "niezwyczajn": {
+        "ich": 1
+    },
+    "ich": {
+        "lekkoś": 1
+    },
+    "lekkoś": {
+        "woł": 1
+    },
+    "woł": {},
+    "wracało": {
+        "towarzystwo": 1
+    },
+    "wesoł": {
+        "lecz": 1
+    },
+    "porządk": {
+        "nikt": 1,
+        "pilnow": 1
+    },
+    "naprzód": {
+        "dziec": 1
+    },
+    "dziec": {
+        "mał": 1
+    },
+    "dozorc": {
+        "pot": 1
+    },
+    "pot": {
+        "sędz": 1
+    },
+    "szed": {
+        "z": 1
+    },
+    "podkomorzyn": {
+        "obok": 1
+    },
+    "otoczon": {
+        "rodzin": 1
+    },
+    "rodzin": {
+        "pann": 1
+    },
+    "pann": {
+        "tuż": 1,
+        "szł": 1
+    },
+    "starszym": {
+        "a": 1
+    },
+    "bok": {
+        "pann": 1
+    },
+    "szł": {
+        "przed": 1
+    },
+    "pół": {
+        "krok": 1
+    },
+    "krok": {
+        "tak": 1
+    },
+    "przyzwoitość": {},
+    "nikt": {
+        "tam": 1,
+        "mężczyzn": 1
+    },
+    "rozpraw": {
+        "o": 1
+    },
+    "ustaw": {
+        "a": 1
+    },
+    "każd": {
+        "mimowoln": 1
+    },
+    "mimowoln": {
+        "porządk": 1
+    },
+    "pilnow": {
+        "bo": 1
+    },
+    "obyczaj": {
+        "chow": 1
+    },
+    "chow": {
+        "i": 1
+    },
+    "dozwal": {
+        "by": 1
+    },
+    "chybiano": {
+        "względ": 1
+    },
+    "względ": {
+        "dla": 1
+    },
+    "wiek": {
+        "urodz": 1
+    },
+    "rozum": {
+        "urzęd": 1
+    },
+    "urzęd": {}
+}
